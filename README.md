@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://staging.testsquad.co/wp-content/uploads/2025/02/testsquad-logo-500-469x100.png" width="400"/>
-</p>
 
 # Playwright Testing Framework (Boiler-plate)
 
@@ -156,14 +153,6 @@ test('api test example', async ({ request }) => {
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-## Support
-
-Need help implementing this framework or looking for custom automation solutions? Contact TestSquad:
-
-- 📧 Email: daniyalquresi212@gmail.com
-- 💼 Services: Mobile Testing, Web Testing, Automation Solutions, QA Consulting
-
 
 ---
 
